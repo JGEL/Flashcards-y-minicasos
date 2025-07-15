@@ -32,7 +32,7 @@ const Flashcard: React.FC<FlashcardProps> = ({ data }) => {
   const difficultyClass = difficultyStyles[data.difficulty] || 'bg-slate-100 text-slate-800 border-slate-200';
 
   return (
-    <div className={`perspective w-full h-96 ${isFlipped ? 'is-flipped' : ''}`} onClick={handleFlip}>
+    <div className={`perspective w-full h-80 ${isFlipped ? 'is-flipped' : ''}`} onClick={handleFlip}>
       <div className="flipper w-full h-full">
         {/* Front of the card */}
         <div className="front absolute w-full h-full">
