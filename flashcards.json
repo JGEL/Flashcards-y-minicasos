@@ -1,3 +1,4 @@
+[
   {
     "id": "001",
     "term": "Hipocalcemia",
@@ -1282,7 +1283,7 @@
     "id": "161",
     "term": "Hemorragia subaracnoidea",
     "definition": "Sangrado en el espacio subaracnoideo, generalmente por rotura de aneurisma cerebral.",
-    "clinicalPearl": "Cefalea súbita e intensa (“la peor de su vida”) ± rigidez de nuca: sospecha hemorragia subaracnoidea, solicita TC urgente.",
+    "clinicalPearl": "Cefalea súbita e intensa (\"la peor de su vida\") ± rigidez de nuca: sospecha hemorragia subaracnoidea, solicita TC urgente.",
     "rotation": "Neurología",
     "difficulty": "alta"
   },
@@ -1290,7 +1291,7 @@
     "id": "162",
     "term": "Polineuropatía diabética",
     "definition": "Afectación simétrica y distal de nervios periféricos en pacientes con diabetes mellitus.",
-    "clinicalPearl": "Parestesias y pérdida de sensibilidad en “guante y calcetín” en diabético: típico de polineuropatía diabética.",
+    "clinicalPearl": "Parestesias y pérdida de sensibilidad en \"guante y calcetín\" en diabético: típico de polineuropatía diabética.",
     "rotation": "Neurología",
     "difficulty": "media"
   },
@@ -1546,7 +1547,7 @@
     "id": "194",
     "term": "Artritis psoriásica",
     "definition": "Artritis inflamatoria asociada a psoriasis, con afectación articular variable y lesiones cutáneas.",
-    "clinicalPearl": "Dactilitis (“dedo en salchicha”) y placas psoriásicas: sospecha artritis psoriásica, revisa uñas y piel.",
+    "clinicalPearl": "Dactilitis (\"dedo en salchicha\") y placas psoriásicas: sospecha artritis psoriásica, revisa uñas y piel.",
     "rotation": "Reumatología",
     "difficulty": "media"
   },
@@ -1802,7 +1803,7 @@
     "id": "226",
     "term": "Oclusión de la arteria central de la retina",
     "definition": "Obstrucción aguda de la arteria central de la retina, causa de pérdida visual súbita e indolora.",
-    "clinicalPearl": "Pérdida visual súbita e indolora, con fondo de ojo en “mancha rojo cereza”: sospecha oclusión arterial, pronóstico visual grave.",
+    "clinicalPearl": "Pérdida visual súbita e indolora, con fondo de ojo en \"mancha rojo cereza\": sospecha oclusión arterial, pronóstico visual grave.",
     "rotation": "Oftalmología",
     "difficulty": "alta"
   },
@@ -1989,4 +1990,5 @@
     "clinicalPearl": "Vesículas agrupadas y dolor intenso en distribución dermatomérica: sospecha herpes zóster, inicia antivirales precoces.",
     "rotation": "Enfermedades Infecciosas",
     "difficulty": "media"
-  },
+  }
+]
