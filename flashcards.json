@@ -1,0 +1,275 @@
+
+[
+  {
+    "id": "001",
+    "term": "Hipocalcemia",
+    "definition": "Disminución del calcio sérico total por debajo de 8.5 mg/dL o del calcio iónico por debajo de 4.5 mg/dL.",
+    "clinicalPearl": "Signo de Trousseau: espasmo muscular tras inflar el manguito del tensiómetro durante 3 minutos sugiere hipocalcemia.",
+    "rotation": "Medicina Interna",
+    "difficulty": "media"
+  },
+  {
+    "id": "002",
+    "term": "Estenosis mitral",
+    "definition": "Estrechamiento del orificio de la válvula mitral que obstruye el flujo sanguíneo desde la aurícula izquierda al ventrículo izquierdo.",
+    "clinicalPearl": "Paciente inmigrante joven + disnea progresiva + hemoptisis: piensa en fiebre reumática → estenosis mitral.",
+    "rotation": "Cardiología",
+    "difficulty": "media"
+  },
+  {
+    "id": "003",
+    "term": "Pancreatitis aguda",
+    "definition": "Proceso inflamatorio agudo del páncreas, con compromiso variable de otros tejidos regionales o remotos.",
+    "clinicalPearl": "Si el dolor abdominal se irradia 'en cinturón' hacia la espalda y se alivia al inclinarse hacia adelante, sospecha pancreatitis.",
+    "rotation": "Cirugía General",
+    "difficulty": "alta"
+  },
+  {
+    "id": "004",
+    "term": "Derrame pleural",
+    "definition": "Acumulación anormal de líquido en el espacio pleural.",
+    "clinicalPearl": "Matidez a la percusión y disminución del murmullo vesicular en la base pulmonar son los hallazgos clave. Una radiografía de tórax confirmará el diagnóstico.",
+    "rotation": "Neumología",
+    "difficulty": "baja"
+  },
+  {
+    "id": "005",
+    "term": "Insuficiencia cardíaca derecha",
+    "definition": "Fallo del ventrículo derecho para bombear sangre de manera eficaz, causando congestión venosa sistémica.",
+    "clinicalPearl": "Edemas en miembros inferiores + ingurgitación yugular + hepatomegalia, incluso sin disnea, sugieren insuficiencia cardíaca derecha.",
+    "rotation": "Medicina Interna",
+    "difficulty": "media"
+  },
+  {
+    "id": "006",
+    "term": "Hipertiroidismo",
+    "definition": "Exceso de hormonas tiroideas circulantes que provoca hiperactividad metabólica.",
+    "clinicalPearl": "Paciente joven con palpitaciones, pérdida de peso y ansiedad: explora cuello (bocio) y busca temblor fino en manos.",
+    "rotation": "Endocrinología",
+    "difficulty": "media"
+  },
+  {
+    "id": "007",
+    "term": "EPOC",
+    "definition": "Enfermedad pulmonar obstructiva crónica caracterizada por limitación persistente al flujo aéreo.",
+    "clinicalPearl": "Fumador crónico con tos matutina y expectoración: sospecha EPOC aunque la disnea sea leve o tardía.",
+    "rotation": "Neumología",
+    "difficulty": "media"
+  },
+  {
+    "id": "008",
+    "term": "Apendicitis aguda",
+    "definition": "Inflamación del apéndice vermiforme, generalmente por obstrucción luminal.",
+    "clinicalPearl": "Dolor abdominal que migra de epigastrio/periumbilical a fosa iliaca derecha es clásico, aunque la fiebre sea baja o tardía.",
+    "rotation": "Cirugía General",
+    "difficulty": "baja"
+  },
+  {
+    "id": "009",
+    "term": "Diabetes tipo 2",
+    "definition": "Trastorno metabólico caracterizado por hiperglucemia secundaria a resistencia a la insulina y disfunción de las células beta.",
+    "clinicalPearl": "Mayor con infecciones urinarias recurrentes, prurito genital o poliuria nocturna: descarta diabetes tipo 2 aunque no haya síntomas clásicos.",
+    "rotation": "Medicina Familiar",
+    "difficulty": "baja"
+  },
+  {
+    "id": "010",
+    "term": "Hiponatremia",
+    "definition": "Concentración de sodio sérico menor de 135 mEq/L.",
+    "clinicalPearl": "Confusión, náuseas y vómitos sin causa clara: revisa el sodio, la hiponatremia puede ser la responsable.",
+    "rotation": "Urgencias",
+    "difficulty": "media"
+  },
+  {
+    "id": "011",
+    "term": "Embolia pulmonar",
+    "definition": "Obstrucción aguda de la arteria pulmonar o sus ramas por un trombo.",
+    "clinicalPearl": "Disnea súbita + dolor torácico pleurítico + taquicardia en paciente con inmovilización: sospecha embolia pulmonar aunque la Rx sea normal.",
+    "rotation": "Medicina Interna",
+    "difficulty": "alta"
+  },
+  {
+    "id": "012",
+    "term": "Fibrilación auricular",
+    "definition": "Arritmia supraventricular caracterizada por actividad eléctrica auricular desorganizada y ritmo ventricular irregular.",
+    "clinicalPearl": "Palpitaciones irregulares + pulso irregularmente irregular: piensa en fibrilación auricular, incluso si el paciente está asintomático.",
+    "rotation": "Cardiología",
+    "difficulty": "media"
+  },
+  {
+    "id": "013",
+    "term": "Pielonefritis aguda",
+    "definition": "Infección bacteriana del parénquima renal y sistema pielocalicial.",
+    "clinicalPearl": "Fiebre alta + dolor lumbar + piuria: piensa en pielonefritis, sobre todo en mujeres jóvenes o ancianos con confusión.",
+    "rotation": "Medicina Interna",
+    "difficulty": "media"
+  },
+  {
+    "id": "014",
+    "term": "Síndrome nefrótico",
+    "definition": "Conjunto de síntomas caracterizado por proteinuria masiva, hipoalbuminemia, edema e hiperlipidemia.",
+    "clinicalPearl": "Edema facial matutino + proteinuria masiva: sospecha síndrome nefrótico, especialmente en niños.",
+    "rotation": "Nefrología",
+    "difficulty": "media"
+  },
+  {
+    "id": "015",
+    "term": "Hipertensión arterial esencial",
+    "definition": "Elevación persistente de la presión arterial sin causa secundaria identificable.",
+    "clinicalPearl": "Si detectas hipertensión en consulta, confirma con mediciones repetidas en diferentes días antes de diagnosticar.",
+    "rotation": "Medicina Familiar",
+    "difficulty": "baja"
+  },
+  {
+    "id": "016",
+    "term": "Gota",
+    "definition": "Artritis inflamatoria causada por depósito de cristales de urato monosódico en las articulaciones.",
+    "clinicalPearl": "Ataque agudo en primer dedo del pie (podagra) en varón adulto: sospecha gota, especialmente si hay consumo de alcohol o diuréticos.",
+    "rotation": "Reumatología",
+    "difficulty": "media"
+  },
+  {
+    "id": "017",
+    "term": "Anemia ferropénica",
+    "definition": "Disminución de hemoglobina por déficit de hierro, la causa más frecuente de anemia.",
+    "clinicalPearl": "Fatiga + palidez + uñas frágiles: pide ferritina, la anemia ferropénica es común, sobre todo en mujeres jóvenes.",
+    "rotation": "Medicina Interna",
+    "difficulty": "baja"
+  },
+  {
+    "id": "018",
+    "term": "Colecistitis aguda",
+    "definition": "Inflamación de la vesícula biliar, generalmente secundaria a litiasis.",
+    "clinicalPearl": "Dolor en hipocondrio derecho + Murphy positivo + fiebre: piensa en colecistitis, sobre todo en mujeres obesas de mediana edad.",
+    "rotation": "Cirugía General",
+    "difficulty": "media"
+  },
+  {
+    "id": "019",
+    "term": "Migraña",
+    "definition": "Cefalea recurrente, generalmente unilateral, pulsátil y asociada a síntomas neurovegetativos.",
+    "clinicalPearl": "Cefalea que mejora al dormir y se asocia a fotofobia o fonofobia: sospecha migraña, especialmente en mujeres jóvenes.",
+    "rotation": "Neurología",
+    "difficulty": "media"
+  },
+  {
+    "id": "020",
+    "term": "Neumonía adquirida en la comunidad",
+    "definition": "Infección aguda del parénquima pulmonar adquirida fuera del hospital.",
+    "clinicalPearl": "Fiebre + tos productiva + crepitantes en la auscultación: pide radiografía para confirmar neumonía.",
+    "rotation": "Medicina Interna",
+    "difficulty": "media"
+  },
+  {
+    "id": "021",
+    "term": "Hiperglucemia hiperosmolar",
+    "definition": "Complicación aguda de la diabetes caracterizada por hiperglucemia extrema y deshidratación sin cetosis significativa.",
+    "clinicalPearl": "Paciente anciano con diabetes, deshidratado y muy confuso: piensa en hiperglucemia hiperosmolar, aunque no haya cetonas.",
+    "rotation": "Urgencias",
+    "difficulty": "alta"
+  },
+  {
+    "id": "022",
+    "term": "Hiperplasia prostática benigna",
+    "definition": "Crecimiento benigno de la próstata que causa síntomas urinarios obstructivos en varones mayores.",
+    "clinicalPearl": "Varón mayor con chorro urinario débil y nicturia: sospecha hiperplasia prostática benigna antes de buscar causas neurológicas.",
+    "rotation": "Urología",
+    "difficulty": "baja"
+  },
+  {
+    "id": "023",
+    "term": "Dermatitis atópica",
+    "definition": "Enfermedad inflamatoria crónica de la piel caracterizada por prurito y eccema.",
+    "clinicalPearl": "Niño con prurito crónico y lesiones eccematosas en pliegues: piensa en dermatitis atópica, especialmente si hay antecedentes familiares de alergia.",
+    "rotation": "Dermatología",
+    "difficulty": "baja"
+  },
+  {
+    "id": "024",
+    "term": "Cistitis aguda",
+    "definition": "Infección aguda de la vejiga urinaria, frecuente en mujeres jóvenes.",
+    "clinicalPearl": "Disuria, polaquiuria y urgencia miccional sin fiebre alta: piensa en cistitis y trata empíricamente si no hay complicaciones.",
+    "rotation": "Medicina Familiar",
+    "difficulty": "baja"
+  },
+  {
+    "id": "025",
+    "term": "Mononucleosis infecciosa",
+    "definition": "Enfermedad viral causada por el virus de Epstein-Barr, caracterizada por fiebre, faringitis y linfadenopatía.",
+    "clinicalPearl": "Faringitis intensa + linfadenopatía cervical posterior + esplenomegalia en adolescente: sospecha mononucleosis aunque el test rápido sea negativo.",
+    "rotation": "Medicina Interna",
+    "difficulty": "media"
+  },
+  {
+    "id": "026",
+    "term": "Insuficiencia renal aguda prerrenal",
+    "definition": "Disminución brusca de la función renal secundaria a hipoperfusión sin daño estructural inicial.",
+    "clinicalPearl": "Paciente mayor con vómitos o diarrea y creatinina elevada: piensa en causa prerrenal antes de otras etiologías.",
+    "rotation": "Nefrología",
+    "difficulty": "media"
+  },
+  {
+    "id": "027",
+    "term": "Asma bronquial",
+    "definition": "Enfermedad inflamatoria crónica de la vía aérea caracterizada por hiperreactividad bronquial y obstrucción reversible.",
+    "clinicalPearl": "Tos nocturna recurrente en niño, especialmente tras ejercicio o risa: sospecha asma aunque no haya sibilancias en consulta.",
+    "rotation": "Neumología",
+    "difficulty": "baja"
+  },
+  {
+    "id": "028",
+    "term": "Úlcera gástrica",
+    "definition": "Lesión en la mucosa gástrica que penetra la muscularis mucosae, generalmente por H. pylori o AINEs.",
+    "clinicalPearl": "Dolor epigástrico que mejora con alimentos: sugiere úlcera duodenal; si empeora, piensa en úlcera gástrica.",
+    "rotation": "Gastroenterología",
+    "difficulty": "media"
+  },
+  {
+    "id": "029",
+    "term": "Hipertiroidismo subclínico",
+    "definition": "Disminución de TSH con niveles normales de T3 y T4, generalmente asintomático.",
+    "clinicalPearl": "TSH baja con T3 y T4 normales en paciente asintomático: monitoriza, no siempre requiere tratamiento inmediato.",
+    "rotation": "Endocrinología",
+    "difficulty": "media"
+  },
+  {
+    "id": "030",
+    "term": "Otitis media aguda",
+    "definition": "Infección aguda del oído medio, frecuente en niños pequeños.",
+    "clinicalPearl": "Niño con fiebre y dolor de oído tras catarro: sospecha otitis media, especialmente si hay irritabilidad nocturna.",
+    "rotation": "Pediatría",
+    "difficulty": "baja"
+  },
+  {
+    "id": "031",
+    "term": "Enfermedad ácido-péptica",
+    "definition": "Conjunto de trastornos relacionados con la exposición de la mucosa gástrica o duodenal al ácido gástrico.",
+    "clinicalPearl": "Dispepsia crónica en paciente con antecedentes de AINEs: descarta úlcera péptica aunque no haya dolor intenso.",
+    "rotation": "Gastroenterología",
+    "difficulty": "media"
+  },
+  {
+    "id": "032",
+    "term": "Sinusitis aguda",
+    "definition": "Inflamación aguda de los senos paranasales, generalmente secundaria a infección viral o bacteriana.",
+    "clinicalPearl": "Congestión nasal + dolor facial que empeora al agacharse: piensa en sinusitis, sobre todo si dura más de 7 días.",
+    "rotation": "Medicina Familiar",
+    "difficulty": "baja"
+  },
+  {
+    "id": "033",
+    "term": "Lumbalgia mecánica",
+    "definition": "Dolor lumbar de origen musculoesquelético, sin signos de alarma ni irradiación neurológica.",
+    "clinicalPearl": "Dolor lumbar que mejora con reposo y empeora con actividad: suele ser mecánico, evita pruebas de imagen en el primer episodio.",
+    "rotation": "Medicina Familiar",
+    "difficulty": "baja"
+  },
+  {
+    "id": "034",
+    "term": "Crisis hipertensiva",
+    "definition": "Elevación aguda y severa de la presión arterial, con o sin daño agudo a órgano diana.",
+    "clinicalPearl": "Paciente con cefalea intensa y PA >180/120 mmHg: descarta daño a órgano diana antes de decidir tratamiento urgente.",
+    "rotation": "Urgencias",
+    "difficulty": "alta"
+  }
+]
