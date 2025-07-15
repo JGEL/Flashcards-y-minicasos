@@ -40,7 +40,7 @@ const MiniCase: React.FC<MiniCaseProps> = ({ data }) => {
   };
 
   return (
-    <div className={`perspective w-full h-[32rem] ${isFlipped ? 'is-flipped' : ''}`}>
+    <div className={`perspective w-full h-80 ${isFlipped ? 'is-flipped' : ''}`}>
       <div className="flipper w-full h-full">
         {/* Front of the card */}
         <div className="front absolute w-full h-full">
